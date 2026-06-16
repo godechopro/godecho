@@ -3,32 +3,32 @@
     {
       "id": 0,
       "theme": "FORTITUDE",
-      "text": "Your Text for Track 1 Here",
-      "reference": "Reference 1",
-      "reflection": "Reflection 1",
-      "meaning": "Meaning 1",
-      "context": "Context 1",
-      "application": "Application 1"
+      "text": "Put your actual recorded voice script for track 1 here.",
+      "reference": "e.g., Psalm 27:1",
+      "reflection": "Put your custom reflection message for track 1 here.",
+      "meaning": "What the verse means...",
+      "context": "The historical background...",
+      "application": "How to live it out today..."
     },
     {
       "id": 1,
       "theme": "WISDOM",
-      "text": "Your Text for Track 2 Here",
-      "reference": "Reference 2",
-      "reflection": "Reflection 2",
-      "meaning": "Meaning 2",
-      "context": "Context 2",
-      "application": "Application 2"
+      "text": "Put your actual recorded voice script for track 2 here.",
+      "reference": "e.g., Proverbs 3:5",
+      "reflection": "Put your custom reflection message for track 2 here.",
+      "meaning": "What the verse means...",
+      "context": "The historical background...",
+      "application": "How to live it out today..."
     },
     {
       "id": 2,
       "theme": "PURITY",
-      "text": "Your Text for Track 3 Here",
-      "reference": "Reference 3",
-      "reflection": "Reflection 3",
-      "meaning": "Meaning 3",
-      "context": "Context 3",
-      "application": "Application 3"
+      "text": "Put your actual recorded voice script for track 3 here.",
+      "reference": "e.g., Psalm 51:10",
+      "reflection": "Put your custom reflection message for track 3 here.",
+      "meaning": "What the verse means...",
+      "context": "The historical background...",
+      "application": "How to live it out today..."
     }
   ]
 }
